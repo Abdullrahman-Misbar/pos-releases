@@ -1,5 +1,5 @@
 {
-    "version":  "5.2.6",
+    "version":  "5.2.7",
     "bridge":  {
                    "version":  "5.2.5",
                    "url":  "https://github.com/Abdullrahman-Misbar/pos-releases/releases/download/bridge-v2.0.6/bridge-2.0.6.zip",

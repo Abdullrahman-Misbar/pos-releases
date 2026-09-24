@@ -1,8 +1,8 @@
 {
-    "version":  "5.3.5",
+    "version":  "5.3.7",
     "bridge":  {
-                   "version":  "2.2.0.0",
-                   "url":  "https://github.com/Abdullrahman-Misbar/pos-releases/releases/download/bridge-v2.2.0.0/bridge-2.2.0.0.zip",
-                   "sha256":  "6f723b0952a3029d897f09d807edb7e7decf299236ae3d3f477559e2c14ec113"
+                   "version":  "5.3.6.0",
+                   "url":  "https://github.com/Abdullrahman-Misbar/pos-releases/releases/download/bridge-v5.3.6.0/bridge-5.3.6.0.zip",
+                   "sha256":  "051e019883a3d169b2504fb45be7d45d5f59261b25d44aa9d21edf9985b33367"
                }
 }
